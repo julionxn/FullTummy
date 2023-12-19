@@ -1,0 +1,8 @@
+name: FullTummy
+version: '${version}'
+main: net.pulga22.fulltummy.FullTummy
+api-version: '1.20'
+commands:
+  fulltummy:
+    description: Sets the current food item as unbreakable.
+    usage: /fulltummy
